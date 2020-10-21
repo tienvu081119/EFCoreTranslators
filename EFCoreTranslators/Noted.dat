@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=10.0.0.43;Initial Catalog=quickbee.dev1; User ID=sa;Password=Vu@123;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
